@@ -33,3 +33,5 @@ Database scripts and connection logic
 
 Project is fully working and ready to deploy
 
+https://www.youtube.com/watch?v=a6dOGqC8XLA&t=53s 
+you will get Tomcat server installation process in this above link.
