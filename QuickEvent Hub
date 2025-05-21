@@ -1,0 +1,35 @@
+QuickEvent Hub is an event product rental web platform, similar to Amazon but focused only on renting event-related items. This project allows two main types of users: Sellers and Buyers, with an Admin to oversee the system.
+Sellers can list event products for rent, and buyers can browse and book them. The platform supports only Cash on Delivery (COD) as a payment option to ensure sellers get paid when the product is delivered.
+This repository includes all frontend and backend source code, developed using JSP, Java Servlets, CSS, and MySQL for the database.
+
+🧑‍💼 Project Roles
+Seller: Can list event products for rent by adding details like name, description, image, price, etc.
+
+Buyer: Can browse and book products for their events.
+
+Admin: Monitors overall platform activity and manages users.
+
+💡 Key Features
+Product listing and management for sellers.
+
+Product browsing and booking for buyers.
+
+Dynamic dashboard with product update and delete options.
+
+Cash on Delivery (COD) payment method: Payment is made directly to the seller when the product is delivered to the customer.
+
+Clean and responsive interface using JSP and CSS.
+
+Backend powered by Java Servlets.
+
+Data stored and managed in MySQL database.
+
+🛠️ Technologies Used
+Frontend: JSP, HTML, CSS
+
+Backend: Java Servlets
+
+Database: MySQL
+
+Tools: Apache Tomcat, JDBC
+
